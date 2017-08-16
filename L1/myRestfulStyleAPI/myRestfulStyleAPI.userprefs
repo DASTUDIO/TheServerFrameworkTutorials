@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{016078FA-3282-48A7-B12A-0ABCBB04C9EB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myRestfulStyleAPI/MyTable.cs">
+    <Files>
+      <File FileName="myRestfulStyleAPI/Program.cs" Line="9" Column="43" />
+      <File FileName="myRestfulStyleAPI/MyWebServer.cs" Line="67" Column="56" />
+      <File FileName="myRestfulStyleAPI/MyTable.cs" Line="10" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="myRestfulStyleAPI" expanded="True">
+            <Node name="myRestfulStyleAPI" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="MyTable.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.myRestfulStyleAPI PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

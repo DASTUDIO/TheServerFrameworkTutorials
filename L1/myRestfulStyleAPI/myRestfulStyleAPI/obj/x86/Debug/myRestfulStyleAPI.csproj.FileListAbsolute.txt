@@ -1,0 +1,8 @@
+/Users/mac/Projects/myRestfulStyleAPI/myRestfulStyleAPI/bin/Debug/myRestfulStyleAPI.exe
+/Users/mac/Projects/myRestfulStyleAPI/myRestfulStyleAPI/bin/Debug/myRestfulStyleAPI.pdb
+/Users/mac/Projects/myRestfulStyleAPI/myRestfulStyleAPI/bin/Debug/MySql.Data.dll
+/Users/mac/Projects/myRestfulStyleAPI/myRestfulStyleAPI/bin/Debug/ServerFrameWork.dll
+/Users/mac/Projects/myRestfulStyleAPI/myRestfulStyleAPI/obj/x86/Debug/myRestfulStyleAPI.csprojResolveAssemblyReference.cache
+/Users/mac/Projects/myRestfulStyleAPI/myRestfulStyleAPI/obj/x86/Debug/myRestfulStyleAPI.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/myRestfulStyleAPI/myRestfulStyleAPI/obj/x86/Debug/myRestfulStyleAPI.exe
+/Users/mac/Projects/myRestfulStyleAPI/myRestfulStyleAPI/obj/x86/Debug/myRestfulStyleAPI.pdb

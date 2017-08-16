@@ -1,0 +1,331 @@
+
+2017/8/16 20:31:09 Product Unregistered
+2017/8/16 20:31:09 Your RegisterCode is:
+TXNCSk1aUzBUV0ZqUW05dmF5MVFjbTh1Ykc5allXdz1NRDVNVFV3TWpnNE5qSTVNQT09V1phZFpRZg==
+
+2017/8/16 20:31:09 Welcome to ServerFramework
+
+2017/8/16 20:31:09 -> Loading Universal Plugins for System...
+2017/8/16 20:31:09 -> Loading Custom IOC Handled Objects...
+2017/8/16 20:31:09 -> Loading Plugins for WebServer : MyWebServer...
+
+2017/8/16 20:32:07 Product Unregistered
+2017/8/16 20:32:07 Your RegisterCode is:
+TXNCSk1aUzBUV0ZqUW05dmF5MVFjbTh1Ykc5allXdz1NRDVNVFV3TWpnNE5qSTVNQT09V1phZFpRZg==
+
+2017/8/16 20:32:07 Welcome to ServerFramework
+
+2017/8/16 20:32:07 -> Loading Universal Plugins for System...
+2017/8/16 20:32:07 -> Loading Custom IOC Handled Objects...
+2017/8/16 20:32:07 -> Loading Plugins for WebServer : MyWebServer...
+
+2017/8/16 20:55:16 Product Unregistered
+2017/8/16 20:55:16 Your RegisterCode is:
+TXNCSk1aUzBUV0ZqUW05dmF5MVFjbTh1Ykc5allXdz1NRDVNVFV3TWpnNE5qSTVNQT09V1phZFpRZg==
+
+2017/8/16 20:55:16 Welcome to ServerFramework
+
+2017/8/16 20:55:16 -> Loading Universal Plugins for System...
+2017/8/16 20:55:16 -> Loading Custom IOC Handled Objects...
+2017/8/16 20:55:16 -> Loading Plugins for WebServer : MyWebServer...
+2017/8/16 20:55:24 Http Request Received 
+ at : http://127.0.0.1:8080/email 
+ from 127.0.0.1:8080 
+ with header : Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+Accept-Language: zh-cn
+DNT: 1
+Accept-Encoding: gzip, deflate
+
+ 
+
+2017/8/16 20:55:47 Http Request Received 
+ at : http://127.0.0.1:8080/email/?id=1&email=abc@a.a 
+ from 127.0.0.1:8080 
+ with header : Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+Accept-Language: zh-cn
+DNT: 1
+Accept-Encoding: gzip, deflate
+
+ 
+
+
+2017/8/16 20:58:08 Product Unregistered
+2017/8/16 20:58:08 Your RegisterCode is:
+TXNCSk1aUzBUV0ZqUW05dmF5MVFjbTh1Ykc5allXdz1NRDVNVFV3TWpnNE5qSTVNQT09V1phZFpRZg==
+
+2017/8/16 20:58:08 Welcome to ServerFramework
+
+2017/8/16 20:58:08 -> Loading Universal Plugins for System...
+2017/8/16 20:58:08 -> Loading Custom IOC Handled Objects...
+2017/8/16 20:58:08 -> Loading Plugins for WebServer : MyWebServer...
+2017/8/16 20:58:12 Http Request Received 
+ at : http://127.0.0.1:8080/email/?id=1&email=abc@a.a 
+ from 127.0.0.1:8080 
+ with header : Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+Accept-Language: zh-cn
+DNT: 1
+Accept-Encoding: gzip, deflate
+
+ 
+
+2017/8/16 20:58:58 Http Request Received 
+ at : http://127.0.0.1:8080/email/1 
+ from 127.0.0.1:8080 
+ with header : Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+Accept-Language: zh-cn
+DNT: 1
+Accept-Encoding: gzip, deflate
+
+ 
+
+
+2017/8/16 21:06:59 Product Unregistered
+2017/8/16 21:06:59 Your RegisterCode is:
+TXNCSk1aUzBUV0ZqUW05dmF5MVFjbTh1Ykc5allXdz1NRDVNVFV3TWpnNE5qSTVNQT09V1phZFpRZg==
+
+2017/8/16 21:06:59 Welcome to ServerFramework
+
+2017/8/16 21:06:59 -> Loading Universal Plugins for System...
+2017/8/16 21:06:59 -> Loading Custom IOC Handled Objects...
+2017/8/16 21:07:00 -> Loading Plugins for WebServer : MyWebServer...
+
+2017/8/16 21:07:33 Product Unregistered
+2017/8/16 21:07:33 Your RegisterCode is:
+TXNCSk1aUzBUV0ZqUW05dmF5MVFjbTh1Ykc5allXdz1NRDVNVFV3TWpnNE5qSTVNQT09V1phZFpRZg==
+
+2017/8/16 21:07:33 Welcome to ServerFramework
+
+2017/8/16 21:07:33 -> Loading Universal Plugins for System...
+2017/8/16 21:07:33 -> Loading Custom IOC Handled Objects...
+2017/8/16 21:07:33 -> Loading Plugins for WebServer : MyWebServer...
+2017/8/16 21:07:44 Http Request Received 
+ at : http://127.0.0.1:8080/email/1 
+ from 127.0.0.1:8080 
+ with header : Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+Accept-Language: zh-cn
+DNT: 1
+Accept-Encoding: gzip, deflate
+
+ 
+
+
+2017/8/16 21:09:08 Product Unregistered
+2017/8/16 21:09:08 Your RegisterCode is:
+TXNCSk1aUzBUV0ZqUW05dmF5MVFjbTh1Ykc5allXdz1NRDVNVFV3TWpnNE5qSTVNQT09V1phZFpRZg==
+
+2017/8/16 21:09:08 Welcome to ServerFramework
+
+2017/8/16 21:09:08 -> Loading Universal Plugins for System...
+2017/8/16 21:09:08 -> Loading Custom IOC Handled Objects...
+2017/8/16 21:09:08 -> Loading Plugins for WebServer : MyWebServer...
+2017/8/16 21:09:20 Http Request Received 
+ at : http://127.0.0.1:8080/email/?id=2&email=a@a.a&name=aa 
+ from 127.0.0.1:8080 
+ with header : Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+Accept-Language: zh-cn
+DNT: 1
+Accept-Encoding: gzip, deflate
+
+ 
+
+
+2017/8/16 21:10:49 Product Unregistered
+2017/8/16 21:10:49 Your RegisterCode is:
+TXNCSk1aUzBUV0ZqUW05dmF5MVFjbTh1Ykc5allXdz1NRDVNVFV3TWpnNE5qSTVNQT09V1phZFpRZg==
+
+2017/8/16 21:10:49 Welcome to ServerFramework
+
+2017/8/16 21:10:49 -> Loading Universal Plugins for System...
+2017/8/16 21:10:49 -> Loading Custom IOC Handled Objects...
+2017/8/16 21:10:49 -> Loading Plugins for WebServer : MyWebServer...
+2017/8/16 21:11:09 Http Request Received 
+ at : http://127.0.0.1:8080/email/?id=3&email=a@a.a&name=aa 
+ from 127.0.0.1:8080 
+ with header : Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+Accept-Language: zh-cn
+DNT: 1
+Accept-Encoding: gzip, deflate
+
+ 
+
+
+2017/8/16 21:11:41 Product Unregistered
+2017/8/16 21:11:41 Your RegisterCode is:
+TXNCSk1aUzBUV0ZqUW05dmF5MVFjbTh1Ykc5allXdz1NRDVNVFV3TWpnNE5qSTVNQT09V1phZFpRZg==
+
+2017/8/16 21:11:41 Welcome to ServerFramework
+
+2017/8/16 21:11:41 -> Loading Universal Plugins for System...
+2017/8/16 21:11:41 -> Loading Custom IOC Handled Objects...
+2017/8/16 21:11:41 -> Loading Plugins for WebServer : MyWebServer...
+2017/8/16 21:11:52 Http Request Received 
+ at : http://127.0.0.1:8080/email/?email=a@a.a&name=aa 
+ from 127.0.0.1:8080 
+ with header : Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+Accept-Language: zh-cn
+DNT: 1
+Accept-Encoding: gzip, deflate
+
+ 
+
+2017/8/16 21:12:07 Http Request Received 
+ at : http://127.0.0.1:8080/email/?name=a&email=b 
+ from 127.0.0.1:8080 
+ with header : Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+Accept-Language: zh-cn
+DNT: 1
+Accept-Encoding: gzip, deflate
+
+ 
+
+
+2017/8/16 21:18:21 Product Unregistered
+2017/8/16 21:18:21 Your RegisterCode is:
+TXNCSk1aUzBUV0ZqUW05dmF5MVFjbTh1Ykc5allXdz1NRDVNVFV3TWpnNE5qSTVNQT09V1phZFpRZg==
+
+2017/8/16 21:18:21 Welcome to ServerFramework
+
+2017/8/16 21:18:21 -> Loading Universal Plugins for System...
+2017/8/16 21:18:21 -> Loading Custom IOC Handled Objects...
+2017/8/16 21:18:21 -> Loading Plugins for WebServer : MyWebServer...
+2017/8/16 21:18:28 Http Request Received 
+ at : http://127.0.0.1:8080/email/?name=a&email=a@a.a 
+ from 127.0.0.1:8080 
+ with header : Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+Accept-Language: zh-cn
+DNT: 1
+Accept-Encoding: gzip, deflate
+
+ 
+
+
+2017/8/16 21:18:59 Product Unregistered
+2017/8/16 21:19:00 Your RegisterCode is:
+TXNCSk1aUzBUV0ZqUW05dmF5MVFjbTh1Ykc5allXdz1NRDVNVFV3TWpnNE5qSTVNQT09V1phZFpRZg==
+
+2017/8/16 21:19:00 Welcome to ServerFramework
+
+2017/8/16 21:19:00 -> Loading Universal Plugins for System...
+2017/8/16 21:19:00 -> Loading Custom IOC Handled Objects...
+2017/8/16 21:19:00 -> Loading Plugins for WebServer : MyWebServer...
+2017/8/16 21:19:01 Http Request Received 
+ at : http://127.0.0.1:8080/email/?name=a&email=a@a.a 
+ from 127.0.0.1:8080 
+ with header : Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+Accept-Language: zh-cn
+DNT: 1
+Accept-Encoding: gzip, deflate
+
+ 
+
+2017/8/16 21:19:01 Add Item Successful!
+2017/8/16 21:19:44 Http Request Received 
+ at : http://127.0.0.1:8080/email/2 
+ from 127.0.0.1:8080 
+ with header : Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+Accept-Language: zh-cn
+DNT: 1
+Accept-Encoding: gzip, deflate
+
+ 
+
+2017/8/16 21:19:50 Http Request Received 
+ at : http://127.0.0.1:8080/email/3 
+ from 127.0.0.1:8080 
+ with header : Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+Accept-Language: zh-cn
+DNT: 1
+Accept-Encoding: gzip, deflate
+
+ 
+
+2017/8/16 21:19:54 Http Request Received 
+ at : http://127.0.0.1:8080/email/2 
+ from 127.0.0.1:8080 
+ with header : Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+Accept-Language: zh-cn
+DNT: 1
+Accept-Encoding: gzip, deflate
+
+ 
+
+
+2017/8/16 21:22:28 Product Unregistered
+2017/8/16 21:22:28 Your RegisterCode is:
+TXNCSk1aUzBUV0ZqUW05dmF5MVFjbTh1Ykc5allXdz1NRDVNVFV3TWpnNE5qSTVNQT09V1phZFpRZg==
+
+2017/8/16 21:22:28 Welcome to ServerFramework
+
+2017/8/16 21:22:28 -> Loading Universal Plugins for System...
+2017/8/16 21:22:28 -> Loading Custom IOC Handled Objects...
+2017/8/16 21:22:28 -> Loading Plugins for WebServer : MyWebServer...
+2017/8/16 21:22:29 Http Request Received 
+ at : http://127.0.0.1:8080/email/2 
+ from 127.0.0.1:8080 
+ with header : Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+Accept-Language: zh-cn
+DNT: 1
+Accept-Encoding: gzip, deflate
+
+ 
+
